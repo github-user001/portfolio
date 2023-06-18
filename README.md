@@ -6,7 +6,7 @@
 
 Technologies: React Native, React, GraphQL Express NodeJS Server, Apollo Client, Shared React Module Monorepo, TypeScript
 
-Description: https://www.bakkt.com/
+Description: [https://www.bakkt.com/](https://www.bakkt.com/)
 
 Manage your digital assets, rewards, gift cards, cryptocurrency with Bakkt’s digital wallet.
 Discover money you never knew you had by using Bakkt to track, spend, and send your digital assets.
@@ -61,8 +61,7 @@ Description: Application to allow for the live streaming and viewing of live str
 
 Technologies: Android
 
-Link: [Play Store](
-https://play.google.com/store/apps/details?id=tv.halogen.android)
+Link: [Play Store](https://play.google.com/store/apps/details?id=tv.halogen.android)
 
 
 ### Alexa Skill of the Day
@@ -104,7 +103,6 @@ Link: [Android Fundamentals](https://www.udacity.com/course/new-android-fundamen
 * Collaborated with designers and developers all over the world to develop customer pleasing features and upgrades
 * Open source application nearly has [100 stars on Github](https://github.com/tvportal/android)
 * Respond to 100's of customer inquiries daily, achieving a Google Play Store rating of over 4.5 with over 4,300 reviews
-<img src="https://user-images.githubusercontent.com/6922904/95660182-15dc7700-0af4-11eb-8a8c-361603c7721f.png" width="200">
-
+![TV Portal CTO](https://user-images.githubusercontent.com/6922904/95660182-15dc7700-0af4-11eb-8a8c-361603c7721f.png)
 
 #### [EDIT RESUME](https://www.overleaf.com/read/kbhsskymppsg)
